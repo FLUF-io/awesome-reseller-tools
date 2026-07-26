@@ -82,6 +82,8 @@ Tools and platforms for finding inventory to resell.
 - [888 Lots](https://888lots.com) — Wholesale liquidation pallets and lots.
 - [Depop](https://depop.com) — Sometimes the best sourcing is buying underpriced items to relist.
 
+- [Crawlbench](https://crawlbench.com) — Facebook Marketplace monitoring with filters and email/Telegram alerts for sourcing inventory.
+
 ## Marketplaces
 
 The platforms where resellers sell.
