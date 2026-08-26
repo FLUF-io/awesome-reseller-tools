@@ -53,6 +53,7 @@ Tools for understanding what sells and at what price.
 - [Worthpoint](https://worthpoint.com) — Price guide database for antiques, collectibles, and vintage items.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
+- [BIDonBOT](https://bidonbot.com) — Free reseller toolkit with live eBay comps, cross-platform fee calculators, and photo-based item lookup.
 
 ## Photography & Listing
 
