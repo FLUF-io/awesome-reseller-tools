@@ -53,6 +53,7 @@ Tools for understanding what sells and at what price.
 - [Worthpoint](https://worthpoint.com) — Price guide database for antiques, collectibles, and vintage items.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
+- [FlipWorth](https://flipworth.silentdirectivellc.com) — Snap a photo of a thrift, garage-sale or estate-sale find and get an estimated resale range. Runs in the browser, also on iPhone.
 
 ## Photography & Listing
 
