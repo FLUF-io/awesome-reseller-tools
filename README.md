@@ -53,6 +53,7 @@ Tools for understanding what sells and at what price.
 - [Worthpoint](https://worthpoint.com) — Price guide database for antiques, collectibles, and vintage items.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
+- [SoldStack](https://soldstack.fly.dev) — Clean Poshmark sold comps API: median price, days to sell, net payout after fees and a buy/pass verdict.
 
 ## Photography & Listing
 
