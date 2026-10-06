@@ -19,7 +19,7 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 
 Tools that let you list products across multiple marketplaces from one place.
 
-- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 60+ channels including Depop, eBay, Vinted, Vestiaire Collective, Shopify, Etsy, Facebook Marketplace, Grailed, Whatnot, Poshmark, Mercari, Temu, and Yaga. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
+- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 100+ channels — 55+ marketplaces and store platforms including Depop, eBay, Vinted, Etsy, Shopify, Amazon, Facebook Marketplace, Vestiaire Collective, Grailed, Whatnot, Poshmark, Mercari, TikTok Shop, Temu, StockX, ASOS Marketplace, Wallapop, Leboncoin, Kleinanzeigen, Marktplaats, Subito, Allegro, Mercado Libre, Enjoei, Discogs and Yaga, plus 70+ Mirakl-powered marketplaces. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
 
 ## Shipping & Fulfilment
 
