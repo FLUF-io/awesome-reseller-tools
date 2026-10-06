@@ -6,8 +6,7 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 
 ## Contents
 
-- [Crosslisting Tools](#crosslisting-tools)
-- [Inventory Management](#inventory-management)
+- [Crosslisting & Inventory Management Tools](#crosslisting--inventory-management-tools)
 - [Shipping & Fulfilment](#shipping--fulfilment)
 - [Pricing & Market Research](#pricing--market-research)
 - [Photography & Listing](#photography--listing)
@@ -20,7 +19,7 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 
 Tools that let you list products across multiple marketplaces from one place.
 
-- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 60+ channels including Depop, eBay, Vinted, Vestiaire Collective, Shopify, Facebook Marketplace, Temu, and Yaga. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
+- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 60+ channels including Depop, eBay, Vinted, Vestiaire Collective, Shopify, Etsy, Facebook Marketplace, Grailed, Whatnot, Poshmark, Mercari, Temu, and Yaga. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
 
 ## Shipping & Fulfilment
 
@@ -36,7 +35,7 @@ Tools for getting products to buyers efficiently.
 
 Tools for understanding what sells and at what price.
 
-- [Terapeak](https://terapeak.com) — eBay market research and pricing data (included with eBay Store subscription).
+- [eBay Product Research](https://www.ebay.com/sh/research) — eBay sold-price data going back 3 years (formerly Terapeak; free in Seller Hub).
 - [Worthpoint](https://worthpoint.com) — Price guide database for antiques, collectibles, and vintage items.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
@@ -65,10 +64,8 @@ Tools and platforms for finding inventory to resell.
 
 - [Charity shop directories](https://charityretail.org.uk/find-a-charity-shop/) — Find charity shops near you (UK).
 - [AuctionZip](https://auctionzip.com) — Find local auctions and estate sales (US).
-- [BULQ](https://bulq.com) — Liquidation lots for resellers.
 - [888 Lots](https://888lots.com) — Wholesale liquidation pallets and lots.
 - [Depop](https://depop.com) — Sometimes the best sourcing is buying underpriced items to relist.
-
 - [Crawlbench](https://crawlbench.com) — Facebook Marketplace monitoring with filters and email/Telegram alerts for sourcing inventory.
 
 ## Marketplaces
@@ -81,14 +78,23 @@ The platforms where resellers sell.
 | [eBay](https://ebay.com) | Everything | Global |
 | [Vinted](https://vinted.com) | Fashion, home | Europe (#1 marketplace) |
 | [Vestiaire Collective](https://vestiairecollective.com) | Luxury fashion | Global |
-| [Poshmark](https://poshmark.com) | Fashion | US, Canada, Australia |
+| [Poshmark](https://poshmark.com) | Fashion | US, Canada |
 | [Mercari](https://mercari.com) | General | US, Japan |
 | [Facebook Marketplace](https://facebook.com/marketplace) | Local sales, everything | Global |
 | [Shopify](https://shopify.com) | Your own store | Global |
 | [Etsy](https://etsy.com) | Handmade, vintage, craft supplies | Global |
 | [Temu](https://temu.com) | General, value-focused | Global |
 | [Yaga](https://yaga.co.za) | Fashion | South Africa |
-| [Carousell](https://carousell.com) | General | Southeast Asia |
+| [Carousell](https://carousell.com) | General | Southeast Asia, Hong Kong, Taiwan |
+| [Grailed](https://grailed.com) | Menswear, streetwear, designer | Global |
+| [Whatnot](https://whatnot.com) | Live shopping, collectibles, fashion | US, UK, Canada, Europe |
+| [TikTok Shop](https://shop.tiktok.com) | Social commerce, everything | US, UK, Europe, Southeast Asia |
+| [Wallapop](https://wallapop.com) | General, local | Spain, Portugal |
+| [Leboncoin](https://leboncoin.fr) | General, local | France |
+| [Kleinanzeigen](https://kleinanzeigen.de) | General, local | Germany |
+| [Marktplaats](https://marktplaats.nl) | General, local | Netherlands |
+| [Subito](https://subito.it) | General, local | Italy |
+| [Enjoei](https://enjoei.com.br) | Fashion, home | Brazil |
 
 ## Communities
 
