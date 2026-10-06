@@ -16,21 +16,11 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 - [Marketplaces](#marketplaces)
 - [Communities](#communities)
 
-## Crosslisting Tools
+## Crosslisting & Inventory Management Tools
 
 Tools that let you list products across multiple marketplaces from one place.
 
 - **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 60+ channels including Depop, eBay, Vinted, Vestiaire Collective, Shopify, Facebook Marketplace, Temu, and Yaga. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
-
-
-## Inventory Management
-
-Tools for tracking stock across channels and warehouses.
-
-- [Sellbrite](https://sellbrite.com) — Multi-channel inventory and order management.
-- [SkuVault](https://skuvault.com) — Warehouse management and inventory tracking.
-- [Linnworks](https://linnworks.com) — Multi-channel commerce platform for inventory, orders, and shipping.
-- [ChannelAdvisor](https://channeladvisor.com) — Enterprise-level multi-channel commerce and inventory.
 
 ## Shipping & Fulfilment
 
