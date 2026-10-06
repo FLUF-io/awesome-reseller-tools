@@ -20,11 +20,8 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 
 Tools that let you list products across multiple marketplaces from one place.
 
-- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports Depop, eBay, Vinted, Vestiaire Collective, Shopify, Facebook Marketplace, Temu, and Yaga. Includes AI listing creation, smart pricing, smart relisting, real-time inventory sync, and a mobile app (iOS + Android).
-- [List Perfectly](https://listperfectly.com) — Crosslisting platform supporting 20+ US marketplaces including Poshmark, Mercari, and eBay.
-- [Vendoo](https://vendoo.co) — Crosslisting, analytics, and inventory management for US-focused resellers.
-- [Crosslist](https://crosslist.com) — Browser extension for crosslisting across multiple platforms.
-- [OneShop](https://oneshop.com) — Mobile-first crosslisting app with auto-relisting.
+- **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 60+ channels including Depop, eBay, Vinted, Vestiaire Collective, Shopify, Facebook Marketplace, Temu, and Yaga. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
+
 
 ## Inventory Management
 
