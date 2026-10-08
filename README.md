@@ -40,6 +40,7 @@ Tools for understanding what sells and at what price.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
 - [SoldStack](https://soldstack.fly.dev) — Clean Poshmark sold comps API: median price, days to sell, net payout after fees and a buy/pass verdict.
+- [FeeScope](https://lowlune.github.io/feescope/) — Free, private browser calculator for marketplace fees, net proceeds, profit, margin, ROI and break-even price across Etsy, eBay, Amazon FBA, Poshmark, Depop, Shopify and custom rates; open source (MIT).
 
 ## Photography & Listing
 
