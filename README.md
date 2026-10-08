@@ -40,6 +40,7 @@ Tools for understanding what sells and at what price.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
 - [SoldStack](https://soldstack.fly.dev) — Clean Poshmark sold comps API: median price, days to sell, net payout after fees and a buy/pass verdict.
+- [Resale IQ](https://resaleiq.dev) — Vinted demand data for resellers: BUY/WATCH/SKIP verdict and a max buy price per brand/model, plus free CC BY 4.0 datasets.
 
 ## Photography & Listing
 
