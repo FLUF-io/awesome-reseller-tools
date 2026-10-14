@@ -30,6 +30,7 @@ Tools for getting products to buyers efficiently.
 - [Packlink](https://packlink.com) — European shipping comparison and label printing.
 - [Royal Mail Click & Drop](https://parcel.royalmail.com) — UK shipping label creation and tracking.
 - [Veeqo](https://veeqo.com) — Free shipping and inventory management (owned by Amazon).
+- [PrepCenter.com](https://prepcenter.com) — Directory of Amazon FBA prep centers with seller reviews, ratings, and map search.
 
 ## Pricing & Market Research
 
@@ -40,6 +41,7 @@ Tools for understanding what sells and at what price.
 - [PriceCharting](https://pricecharting.com) — Video game, trading card, and collectible price tracking.
 - [CamelCamelCamel](https://camelcamelcamel.com) — Amazon price history tracker.
 - [SoldStack](https://soldstack.fly.dev) — Clean Poshmark sold comps API: median price, days to sell, net payout after fees and a buy/pass verdict.
+- [Aura](https://goaura.com) — Automated repricing for Amazon and Walmart sellers, with Maven AI strategies for Amazon, configurable price limits, and pricing activity logs.
 
 ## Photography & Listing
 
