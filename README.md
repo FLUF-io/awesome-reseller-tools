@@ -71,7 +71,7 @@ Tools and platforms for finding inventory to resell.
 - [AuctionZip](https://auctionzip.com) — Find local auctions and estate sales (US).
 - [888 Lots](https://888lots.com) — Wholesale liquidation pallets and lots.
 - [Depop](https://depop.com) — Sometimes the best sourcing is buying underpriced items to relist.
-- [Crawlbench](https://crawlbench.com) — Facebook Marketplace monitoring with filters and email/Telegram alerts for sourcing inventory.
+- [Crawlbench](https://crawlbench.com) — Facebook Marketplace monitoring with filters and email/Telegram alerts for sourcing inventory, plus a Telegram channel and Discord community.
 
 ## Marketplaces
 
@@ -110,6 +110,7 @@ Places to connect with other resellers.
 - [r/Reselling](https://reddit.com/r/Reselling) — General reselling discussion.
 - [r/VintedUK](https://reddit.com/r/VintedUK) — Vinted sellers in the UK.
 - [r/eBay](https://reddit.com/r/eBay) — eBay community.
+- [Crawlbench Discord](https://discord.gg/5jaP49EhaB) — Facebook Marketplace flippers sharing finds and price checks with the Crawlbench team.
 
 ---
 
