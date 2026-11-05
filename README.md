@@ -21,6 +21,8 @@ Tools that let you list products across multiple marketplaces from one place.
 
 - **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 100+ channels — 55+ marketplaces and store platforms including Depop, eBay, Vinted, Etsy, Shopify, Amazon, Facebook Marketplace, Vestiaire Collective, Grailed, Whatnot, Poshmark, Mercari, TikTok Shop, Temu, StockX, ASOS Marketplace, Wallapop, Leboncoin, Kleinanzeigen, Marktplaats, Subito, Allegro, Mercado Libre, Enjoei, Discogs and Yaga, plus 70+ Mirakl-powered marketplaces. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
 
+- [Storminder](https://storminder.com/) — Storage unit inventory and profit tracking software for storage auction buyers and resellers. Track unit acquisition costs, inventory, sales, expenses, and profitability in one place. Includes AI Assitant inventory, listing, pricing, and item identification tools.
+
 ## Shipping & Fulfilment
 
 Tools for getting products to buyers efficiently.
