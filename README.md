@@ -20,6 +20,8 @@ Whether you're flipping on Depop, listing on eBay, or scaling across Vinted and 
 Tools that let you list products across multiple marketplaces from one place.
 
 - **[FLUF Connect](https://fluf.io)** — List once, sell everywhere. Supports 100+ channels — 55+ marketplaces and store platforms including Depop, eBay, Vinted, Etsy, Shopify, Amazon, Facebook Marketplace, Vestiaire Collective, Grailed, Whatnot, Poshmark, Mercari, TikTok Shop, Temu, StockX, ASOS Marketplace, Wallapop, Leboncoin, Kleinanzeigen, Marktplaats, Subito, Allegro, Mercado Libre, Enjoei, Discogs and Yaga, plus 70+ Mirakl-powered marketplaces. Includes AI listing creation, smart pricing, auto-relisting, real-time inventory sync, and a mobile app (iOS + Android).
+  
+- [SportsCardNetwork](https://sportscardnetwork.ai) — Inventory and crosslisting built for sports card dealers. Scan a card with your phone to fill in player, set, year and parallel, then list it to eBay, Shopify, Square, TikTok Shop and your own storefront from one place. Tracks true profit after marketplace fees, PSA/CGC/SGC/BGS cert lookup, shipping labels and consignment. From $19.99/month.
 
 - [Storminder](https://storminder.com/) — Storage unit inventory and profit tracking software for storage auction buyers and resellers. Track unit acquisition costs, inventory, sales, expenses, and profitability in one place. Includes AI Assitant inventory, listing, pricing, and item identification tools.
 
