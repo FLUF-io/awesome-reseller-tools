@@ -51,6 +51,7 @@ Tools for creating better product photos and listings.
 
 - [PhotoRoom](https://photoroom.com) — AI background removal and product photo editing.
 - [Remove.bg](https://remove.bg) — One-click background removal for product photos.
+- [TinyTools Background Remover](https://tomaserben.com/free-tools/image-background-remover) — Free background removal that runs fully in the browser, no signup or upload.
 - [Canva](https://canva.com) — Design tool for creating listing images, banners, and social posts.
 - [Google Lens](https://lens.google.com) — Identify products from photos for sourcing and pricing research.
 
