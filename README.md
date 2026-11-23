@@ -23,6 +23,8 @@ Tools that let you list products across multiple marketplaces from one place.
 
 - [Storminder](https://storminder.com/) — Storage unit inventory and profit tracking software for storage auction buyers and resellers. Track unit acquisition costs, inventory, sales, expenses, and profitability in one place. Includes AI Assitant inventory, listing, pricing, and item identification tools.
 
+- [Glammlist](https://glammlist.com) — Done-for-you product listing and cross-listing service for resellers: a human team writes, checks and cross-lists your items on eBay, Poshmark, Depop and Mercari for $1 per item, with a 10-listing pilot for $10 and reseller virtual assistant support from $15/hr. For sellers who want the listing work done for them, not another tool to run.
+
 ## Shipping & Fulfilment
 
 Tools for getting products to buyers efficiently.
