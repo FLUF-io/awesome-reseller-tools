@@ -53,6 +53,7 @@ Tools for creating better product photos and listings.
 - [Remove.bg](https://remove.bg) — One-click background removal for product photos.
 - [Canva](https://canva.com) — Design tool for creating listing images, banners, and social posts.
 - [Google Lens](https://lens.google.com) — Identify products from photos for sourcing and pricing research.
+- [PixLasso](https://pixlasso.com) — Chrome and Edge extension that saves the images on a page in bulk, for example your own listing photos. Filters by size and type and converts WebP to JPG or PNG. Free tier, one-time $9.99 Pro.
 
 ## Accounting & Tax
 
